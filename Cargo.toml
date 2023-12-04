@@ -1,0 +1,4 @@
+[workspace]
+members = [ "helper", "day1", "day2",  "day3"]
+exclude = [ "input", "template", ".git" ]
+resolver = "2"
